@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sonamsks" alt="sonamsks" /></a> </p>
 
 - 🌱 I have the Certification  **RHCSA v9 certified, GitHub Admin certified,**
-- 
+  
 - 🌱 I’m currently learning **OpenStack, Azure,**
 
 - 🤝 I’m looking for help with **Job Opportunity**
