@@ -6,7 +6,7 @@
 
 - 🌱 I have the Certification  **RHCSA v9 certified, GitHub Admin certified,**
   
-- 🌱 I’m currently learning **OpenStack, Azure,**
+- 🌱 I’m currently learning **AWS Zero to Hero, OpenStack, Azure,**
 
 - 🤝 I’m looking for help with **Job Opportunity**
 
